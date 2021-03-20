@@ -31,6 +31,7 @@ export default {
 footer {
   text-align: center;
   margin-top: 10px;
+  margin-bottom: 10px;
   font-size: 20px;
   background: #f49f05;
 }
