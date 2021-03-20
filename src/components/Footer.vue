@@ -1,10 +1,10 @@
 <template>
   <footer>
-    <a href="https://github.com/ikokopuffsl/creative3-CS260"
-      >Tyler Brady and Kwan Ko's Project - Github</a
+    <a href="https://github.com/DJKim31/CP3.git"
+      >DJ's Bakery - Github</a
     >
     <br />
-    <span>Do you have any requests or comments for us?</span>
+    <span>Do you have any requests or comments for us? </span>
     <input type="text" v-model="msg" id="comments" />
     <button @click="submitRequest()" class="auto">Submit!</button>
   </footer>
@@ -15,7 +15,7 @@ export default {
   name: "Footer",
   data() {
     return {
-      msg: "Your comment here"
+      msg: "Feel Free to comment"
     };
   },
   methods: {
@@ -30,7 +30,7 @@ export default {
 <style scoped>
 footer {
   text-align: center;
-  margin: 20px;
+  margin-top: 10px;
   font-size: 20px;
   background: #f49f05;
 }

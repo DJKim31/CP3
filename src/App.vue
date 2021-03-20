@@ -7,7 +7,7 @@
         </div>
       </div>
       <div id="brand">
-        <router-link to="/"> <img src="/images/logo.png"/></router-link>
+        <router-link to="/"> <img src="/images/logo.jpg"/></router-link>
       </div>
       <div id="side">
         <div class="menu-item browse">
@@ -85,10 +85,12 @@ body {
   grid-area: brand;
   display: flex;
   justify-content: center;
+  margin-top: 15px;
 }
 
 #brand img {
   height: 200px;
+  maring-top: 10px;
 }
 
 #left-side {
