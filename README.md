@@ -1,4 +1,4 @@
-# cp3-cs260
+# cp3
 
 ## Project setup
 ```
