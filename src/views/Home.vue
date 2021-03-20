@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h1>Welcome to The Little Bakery</h1>
+    <h1>Welcome to DJ's Bakery</h1>
     <img src="/images/bakery2.jpg"/>
   </div>
 </template>

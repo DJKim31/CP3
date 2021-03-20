@@ -65,7 +65,6 @@ export default {
   box-sizing: border-box;
 }
 
-
 #menu {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
