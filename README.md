@@ -1,4 +1,4 @@
-# creative-3-cs260
+# cp3-cs260
 
 ## Project setup
 ```
