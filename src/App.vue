@@ -65,9 +65,6 @@ export default {
   box-sizing: border-box;
 }
 
-body {
-  margin: 50px 100px;
-}
 
 #menu {
   display: grid;
@@ -89,7 +86,7 @@ body {
 }
 
 #brand img {
-  height: 200px;
+  height: 180px;
   maring-top: 10px;
 }
 
