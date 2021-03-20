@@ -25,10 +25,6 @@
           <img src="../../images/products/twix_cookies.jpeg" />
           <p>Twix Cookies</p>
         </div>
-        <div class="col item">
-          <img src="../../images/products/ultra_gooey_choco_chips.jpeg" />
-          <p>Ultra Gooey Chocolate Chip Cookies</p>
-        </div>
       </div>
       <BakeryList :products="products" />
     </div>
@@ -38,7 +34,7 @@
 
 <template>
   <div>
-    <h1>Coooooooookkkiiieeeesss</h1>
+    <h1>Never Regret Cookies</h1>
     <div class="container-fluid text-size">
       <BakeryList :products="products" />
     </div>
